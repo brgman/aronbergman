@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Aron BERGMAN profile views](https://u8views.com/api/v1/github/profiles/16627639/views/day-week-month-total-count.svg)](https://u8views.com/github/aronbergman)
 <!--
 **aronbergman/aronbergman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
