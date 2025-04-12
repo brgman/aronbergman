@@ -1,6 +1,6 @@
 # 📅 [Agenda 42](https://agenda42.fr)
 
-**Agenda42** is a web application that helps students at School 42 efficiently manage their time and campus activities — all in one place:  
+**Agenda42** is a web application that helps students at [École 42](https://42.fr) efficiently manage their time and campus activities — all in one place:  
 - Slots where you’re assigned as a peer evaluator  
 - Your own project evaluations  
 - Events you’ve signed up for  
@@ -39,6 +39,9 @@ The app is deployed using **GitHub CI + Nginx**.
 
 ## 🧪 UI Examples
 
+[](https://raw.githubusercontent.com/aronbergman/aronbergman/refs/heads/main/static/1.gif)
+[](https://raw.githubusercontent.com/aronbergman/aronbergman/refs/heads/main/static/2.gif)
+[](https://raw.githubusercontent.com/aronbergman/aronbergman/refs/heads/main/static/3.gif)
 📷 *Screenshots coming soon*
 
 ---
