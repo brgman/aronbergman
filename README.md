@@ -38,10 +38,9 @@ The app is deployed using **GitHub CI + Nginx**.
 
 ---
 
-## 🧪 UI Examples
+## 📷 UI Examples
 
 ![Agenda42 Demo](https://raw.githubusercontent.com/aronbergman/aronbergman/refs/heads/main/static/3.gif)
-📷 *Screenshots coming soon*
 
 ---
 
@@ -59,9 +58,3 @@ The app is deployed using **GitHub CI + Nginx**.
 - Ability to search for students from your piscine group for collaboration or support
 - Advanced filters and UI customization for slots
 - Offline support improvements
-
----
-
-[![Aron BERGMAN profile views](https://u8views.com/api/v1/github/profiles/16627639/views/day-week-month-total-count.svg)](https://u8views.com/github/aronbergman)
-
----
