@@ -39,7 +39,6 @@ The app is deployed using **GitHub CI + Nginx**.
 
 ## 🧪 UI Examples
 
-![Agenda42 Demo](https://raw.githubusercontent.com/aronbergman/aronbergman/refs/heads/main/static/1.gif)
 ![Agenda42 Demo](https://raw.githubusercontent.com/aronbergman/aronbergman/refs/heads/main/static/2.gif)
 ![Agenda42 Demo](https://raw.githubusercontent.com/aronbergman/aronbergman/refs/heads/main/static/3.gif)
 📷 *Screenshots coming soon*
