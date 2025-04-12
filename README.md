@@ -3,7 +3,8 @@
 **Agenda42** is a web application that helps students at [École 42](https://42.fr) efficiently manage their time and campus activities — all in one place:  
 - Slots where you’re assigned as a peer evaluator  
 - Your own project evaluations  
-- Events you’ve signed up for  
+- Events you’ve signed up for
+- Integration (sending query parameters) with friends42 to search for a student in the cluster.
 
 No more unexpected `-TIG` for missed events!  
 In addition to tracking, the app also provides **full control over slots and events**.
