@@ -1,6 +1,10 @@
 ![Logo GitLab](https://about.gitlab.com/images/press/logo/png/gitlab-logo-100.png)
 
-# ❤️ Migration to GitLab
+# ❤️ Migration
+
+**VS Code → IntelliJ / CLion** for smarter, controlled development 🚀  
+  - [CLion official site](https://www.jetbrains.com/clion/)  
+  - [GitLab official site](https://about.gitlab.com/)
 
 I’m moving all my development to **GitLab**, and here’s why:
 
