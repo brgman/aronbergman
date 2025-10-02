@@ -2,7 +2,9 @@
 
 # ❤️ Moving from GitHub to GitLab
 
-## 1. 🌍 European & Local Choice
+## 🔹 Why I moved
+
+## 1. European & Local Choice
 
 I prefer using **IntelliJ / CLion** because JetBrains is a European company 🇪🇺.  
 Supporting European software helps our local economy and aligns with living in the EU.
