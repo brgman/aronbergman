@@ -2,7 +2,7 @@
 
 # Moving from GitHub to GitLab
 
-## Why I moved
+Why I moved
 
 ## 1. European & Local Choice
 
