@@ -1,8 +1,8 @@
 ![Logo GitLab](https://about.gitlab.com/images/press/logo/png/gitlab-logo-100.png)
 
-# ❤️ Moving from GitHub to GitLab
+# Moving from GitHub to GitLab
 
-## 🔹 Why I moved
+## Why I moved
 
 ## 1. European & Local Choice
 
