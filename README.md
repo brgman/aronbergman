@@ -1,4 +1,4 @@
-![Logo GitLab](https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png)
+![Logo GitLab](https://about.gitlab.com/images/press/logo/png/gitlab-logo-100.png)
 
 # 📦 Migration vers GitLab
 
