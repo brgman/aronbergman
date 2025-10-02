@@ -1,6 +1,6 @@
 ![Logo GitLab](https://about.gitlab.com/images/press/logo/png/gitlab-logo-100.png)
 
-# ❤️ Migration
+# ❤️ Moving from GitHub to GitLab
 
 **VS Code → IntelliJ / CLion** for smarter, controlled development 🚀  
   - [CLion official site](https://www.jetbrains.com/clion/)  
