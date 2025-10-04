@@ -21,8 +21,7 @@ GitHub Copilot is a strategic Microsoft product, and its marketing is designed t
 - **Subscription model:** As a paid service, GitHub tries to convert free users into paying subscribers.
 
 ## 3. Security & Privacy
-- Hosting on my own servers gives complete control over my code and stronger cybersecurity.  
-- Unlike GitHub, where many developers have complained about heavy use of public code for AI training, GitLab offers more privacy options.
+- Hosting on my own servers gives complete control over my code and stronger cybersecurity.
 
 ## 4. Better Control & Features
 - More control over projects  
